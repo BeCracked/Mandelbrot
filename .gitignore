@@ -1,3 +1,6 @@
 bin/
 obj/
 /packages/
+
+# Ignore JetBrains stuff
+.idea/
