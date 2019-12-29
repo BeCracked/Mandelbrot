@@ -27,7 +27,7 @@ namespace Visualiser
         static void Main(string[] args)
         {
             // File path to save image to
-            string file;
+            string file = "";
 
             // image parameters
             int width = 0;
