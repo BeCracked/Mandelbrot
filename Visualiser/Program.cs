@@ -32,10 +32,8 @@ namespace Visualiser
 
                 width = (int) Math.Pow(2, o.ResPow);
                 height = (int) Math.Pow(2, o.ResPow);
-            });
-            // File to save to
-            file = "/home/be_cracked/dev/test/mandeln.png";
 
+            });
 
             Console.WriteLine($"Generating {width}x{height} Mandelbrot canvas.");
 
